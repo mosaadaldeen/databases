@@ -1,0 +1,5 @@
+First downloaded the mongoDB compass and made an account,  
+
+and because the commands to migrate data from mysql to mongoDB didn't work, 
+I exported them from mysql workbench as json or csv, 
+and then imported them into mongoDB compass.
